@@ -5,4 +5,4 @@ To run:
 
 ON LINUX:
 
-python3 base64-encoder.py <filepath>
+python3 base64-encoder.py <"filepath">
