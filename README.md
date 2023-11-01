@@ -6,3 +6,7 @@ To run:
 ON LINUX:
 
 python3 base64-encoder.py <filepath>
+
+ON WINDOWS:
+
+python base64-encoder.py C:\path\to\your\image.png
