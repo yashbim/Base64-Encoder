@@ -27,4 +27,3 @@ try:
     print('data:image/png;base64,' + base64_encoded)
 except Exception as e:
     print(f"Error: {str(e)}")
-
